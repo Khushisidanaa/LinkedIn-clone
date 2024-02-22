@@ -1,0 +1,23 @@
+
+.InputOptions{
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    color: gray;
+    padding: 10px;
+    cursor: pointer;
+    border-bottom: none;
+    margin-bottom: 20px;
+
+}
+
+.InputOptions >h4{
+   margin-left:5px;
+   font-size: 12px;
+
+}
+
+.InputOptions:hover{
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
